@@ -1,0 +1,5 @@
+#it is a only for updating the apt package
+and restoring the defualt packeg to the os 
+it reszolved some internet issues and give a batter experience.
+it is my fast bash scripting 
+thank you for using.
